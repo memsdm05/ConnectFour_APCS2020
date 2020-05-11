@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+.idea
+ConnectFour_APCS2020.iml
